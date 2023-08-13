@@ -58,9 +58,8 @@ Navigate through the website using the intuitive user interface. Browse differen
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Product Page](screenshots/product-page.png)
-![Cart](screenshots/cart.png)
+![Video]([screenshots/homepage.png](<iframe src="https://drive.google.com/file/d/1IQs72HPMv_Q6XWjeO04Qtiyi4n_D5iM4/preview" width="640" height="480" allow="autoplay"></iframe>))
+
 
 
 
