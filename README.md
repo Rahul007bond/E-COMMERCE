@@ -58,7 +58,7 @@ Navigate through the website using the intuitive user interface. Browse differen
 
 ## Screenshots
 
-![Demo](https://github.com/Rahul007bond/E-COMMERCE/img/clip.gif)
+![Demo](https://github.com/Rahul007bond/E-COMMERCE/blob/master/img/clip.gif)
 
 ## Video Link: https://drive.google.com/file/d/1IQs72HPMv_Q6XWjeO04Qtiyi4n_D5iM4/preview
 
