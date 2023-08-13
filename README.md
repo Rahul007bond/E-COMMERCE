@@ -58,7 +58,9 @@ Navigate through the website using the intuitive user interface. Browse differen
 
 ## Screenshots
 
-![Video]([(https://drive.google.com/file/d/1IQs72HPMv_Q6XWjeO04Qtiyi4n_D5iM4/preview)])
+![Video]([()])
+
+## Video Link: https://drive.google.com/file/d/1IQs72HPMv_Q6XWjeO04Qtiyi4n_D5iM4/preview
 
 
 
